@@ -9,7 +9,7 @@ Bu repo Kodluyoruz Front-End eğitiminde açtığımız ilk repo. İçerisinde b
 https://github.com/isk1509/kodluyoruzilkrepo
 ```
 
-
+![gorsel](Screenshot_10.png)
 
 # Usage
 Proje Github üzerinde oluşturuldu ve sonrasında clone'landı. Clone'lanan proje içerisinde README dosyası burada görüldüğü şekilde düzenlendi.
@@ -23,5 +23,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+
 
 
